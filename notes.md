@@ -66,3 +66,5 @@ java.net.UnknownHostException: craftingdh.netlify.app
 <p> - After looking for solutions on the discord I saw some others experiencing the same issue. It seems like the problem is server side, which makes sense since it is a java error. I shall download the server myself and run it on my machine, hopefully that fixes the problem. </p> 
 <p> - After a long download I finally got Voyant Server working on my machine. </p>
 <p> - My initial corpus id was: 49f48aa297f23faaecb77e664a9f0650 </p> 
+<p> - Played around with the data for a while. I wanted to see what they were saying about Canada, and try to figure out thier adittude towards my homeland. </p> 
+<p> - Went looking for my own data to input. </p> 
